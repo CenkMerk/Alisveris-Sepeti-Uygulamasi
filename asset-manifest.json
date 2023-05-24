@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Alisveris-Sepeti-Uygulamasi/static/css/main.bb93a6ed.css",
+    "main.js": "/Alisveris-Sepeti-Uygulamasi/static/js/main.b14f6e12.js",
+    "static/media/p6.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p6.66a4d05ec5a4c6c70cc2.webp",
+    "static/media/p8.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p8.266d85017c9d8b6a73d6.webp",
+    "static/media/p5.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p5.af0c5e1cf8b2d13a5c80.webp",
+    "static/media/p7.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p7.a59e979a2f70bfd02958.webp",
+    "static/media/p1.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p1.fa70db23ce8381ca091b.webp",
+    "static/media/p2.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p2.bccc3fac683dd20d7311.webp",
+    "static/media/p3.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p3.d475f3c7c1dcf65e9c76.webp",
+    "static/media/p4.webp": "/Alisveris-Sepeti-Uygulamasi/static/media/p4.7770302be2290bd75238.webp",
+    "index.html": "/Alisveris-Sepeti-Uygulamasi/index.html",
+    "main.bb93a6ed.css.map": "/Alisveris-Sepeti-Uygulamasi/static/css/main.bb93a6ed.css.map",
+    "main.b14f6e12.js.map": "/Alisveris-Sepeti-Uygulamasi/static/js/main.b14f6e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb93a6ed.css",
+    "static/js/main.b14f6e12.js"
+  ]
+}
