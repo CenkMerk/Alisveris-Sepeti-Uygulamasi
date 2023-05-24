@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import Cart from "./components/Cart";
+import ProductList from "./components/ProductList";
+import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { calculateTotal } from "./control/CartSlice";
 
 function App() {
+
+  const cartItem = useSelector((store) => store.cart);
+  const dispatch = useDispatch();
+  
+  useEffect(() => {
+    dispatch(calculateTotal());
+  }, [cartItem]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="d-flex justify-content-center p-2">
+      <ProductList />
+      <Cart />
     </div>
   );
 }

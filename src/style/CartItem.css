@@ -1,0 +1,11 @@
+
+.QuantityButton {
+  border: none;
+  background-color: black;
+  color: #eabf00;
+}
+.DeleteButton {
+  border: none;
+  background-color: red;
+  color: white;
+}

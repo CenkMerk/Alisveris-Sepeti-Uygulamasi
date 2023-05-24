@@ -1,0 +1,17 @@
+.CartContainer{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.CartItemContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 350px;
+    overflow-y: overlay;
+    padding: 20px 0px;
+}
+
+.CartItemContainer::-webkit-scrollbar {
+    display: none;
+  }
