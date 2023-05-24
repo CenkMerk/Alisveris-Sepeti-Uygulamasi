@@ -15,7 +15,7 @@
 
 - Toplam tutarın güncellenmesi
 
-**[Buradan](https://cenkmerk.github.io/Note-Alma-Uygulamasi/) projenin çalışır halini inceleyebilirsiniz.**
+**[Buradan](https://CenkMerk.github.io/Alisveris-Sepeti-Uygulamasi) projenin çalışır halini inceleyebilirsiniz.**
 
 ### Proje Adımları
 
